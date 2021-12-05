@@ -33,5 +33,5 @@ In this Project We tried to built a gradesheet using python. We did it in Jupyte
 
 ### Final Grade Sheet
 
-![Output!](Images/10.jpg)
+![Output!](Images/13.jpg)
 <br/>
